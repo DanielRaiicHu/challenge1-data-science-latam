@@ -14,6 +14,11 @@ Identificar la tienda menos eficiente a partir del análisis de las siguientes m
 - Productos más y menos vendidos  
 - Costo promedio de envío
 
+## Tecnologías utilizadas
+
+- Google Colab / Jupyter Notebook
+- Git & GitHub
+
 ## Librerías utilizadas
 
 - **Pandas**  
