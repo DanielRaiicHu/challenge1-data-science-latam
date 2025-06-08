@@ -28,12 +28,14 @@ Identificar la tienda menos eficiente a partir del análisis de las siguientes m
 
 ## Estructura del Repositorio
 ```
+├── base-de-datos-challenge1-latam          # Base de datos de las tiendas 
+:
+:
 ├── AluraStoreLatam.ipynb                   # Notebook principal con análisis y gráficos
 ├── informe-final-alura-store.docx          # Documento con el informe final
-├── README.md                               # Archivo explicativo del proyecto
-:
-:
-└── /data                                   # Carpeta para los archivos fuente
+└── README.md                               # Archivo explicativo del proyecto
+
+
 ```
 ## Resultados del Análisis
 
