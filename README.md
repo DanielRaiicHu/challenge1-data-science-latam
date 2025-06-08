@@ -33,7 +33,7 @@ Identificar la tienda menos eficiente a partir del análisis de las siguientes m
 ├── README.md                               # Archivo explicativo del proyecto
 :
 :
-└── /data                                   # (opcional) Carpeta para los archivos fuente
+└── /data                                   # Carpeta para los archivos fuente
 ```
 ## Resultados del Análisis
 
@@ -61,7 +61,7 @@ git clone https://github.com/DanielRaiicHu/challenge1-data-science-latam.git
 Puedes consultar el análisis completo en el documento [`informe-final-alura-store.docx`](informe-final-alura-store.docx), que incluye:
 
 - Introducción del caso
-- Desarrollo con tablas y resultados
+- Desarrollo con tablas, gráficos y resultados
 - Conclusión y recomendación
 
 ## Autor
